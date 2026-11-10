@@ -3,7 +3,7 @@
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-brightgreen.svg)](https://www.minecraft.net/)
 [![NeoForge](https://img.shields.io/badge/NeoForge-21.1.121-orange.svg)](https://neoforged.net/)
 [![Java](https://img.shields.io/badge/Java-21-blue.svg)](https://adoptium.net/)
-[![Version](https://img.shields.io/badge/Version-0.0.1-blueviolet.svg)](https://github.com/)
+[![Version](https://img.shields.io/badge/Version-0.0.1-blueviolet.svg)](https://github.com/baraba-k/The-BigTrees-Mod-Fork-/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A modern, highly optimized fork of the classic **BigTrees** mod (originally created by Karob & ThorinStonehelm for Minecraft 1.7.10), fully ported to **Minecraft 1.21.1** using **NeoForge**.
@@ -12,7 +12,7 @@ This fork preserves 100% of the original procedural tree algorithms, biome local
 
 ---
 
-## ✨ Features
+## Features
 
 - **9 Procedural Tree Types:**
   - **Great Oak**: Colossal multi-branch oaks with taproots and spherical foliage clusters.
@@ -36,7 +36,7 @@ This fork preserves 100% of the original procedural tree algorithms, biome local
 
 ---
 
-## 🛠️ Crafting Recipes
+## Crafting Recipes
 
 All BigTrees saplings can be crafted using a standard 3×3 crafting table:
 
@@ -139,7 +139,7 @@ Vertical column of a Spruce Sapling on top of 2 Spruce Logs:
 
 ---
 
-## 🌲 Tree Growth & Multi-Block Patterns
+## Tree Growth & Multi-Block Patterns
 
 Every sapling can grow with bonemeal or natural ticks. In addition to single-block growth, planting saplings in specific patterns produces colossal variant trees:
 
@@ -192,7 +192,7 @@ Every sapling can grow with bonemeal or natural ticks. In addition to single-blo
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 Configurations are automatically generated in the game's `config/bigtrees/` folder:
 - `kbigtrees.txt`: Master settings (toggle tree types, dimension blacklists, root generation).
@@ -202,7 +202,7 @@ Configurations are automatically generated in the game's `config/bigtrees/` fold
 
 ---
 
-## 🔨 Building From Source
+## Building From Source
 
 ### Prerequisites
 - **Java Development Kit (JDK):** Version 21 (Eclipse Temurin 21 recommended)
@@ -212,8 +212,8 @@ Configurations are automatically generated in the game's `config/bigtrees/` fold
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/your-repo/BigTrees.git
-   cd BigTrees
+   git clone https://github.com/baraba-k/The-BigTrees-Mod-Fork-.git
+   cd The-BigTrees-Mod-Fork-
    ```
 
 2. Build the mod:
@@ -236,7 +236,7 @@ Configurations are automatically generated in the game's `config/bigtrees/` fold
 
 ---
 
-## 📄 License & Credits
+## License & Credits
 
 - **Original Mod:** Created by **Karob** and **ThorinStonehelm** for Minecraft 1.7.10.
 - **Port & Modernization:** Forked and maintained for Minecraft 1.21.1 / NeoForge.
