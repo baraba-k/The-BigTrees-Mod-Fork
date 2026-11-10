@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    " X ",
+    "X X"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:spruce_sapling"
+    },
+    "X": {
+      "item": "minecraft:spruce_log"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "bigtrees:bt_cyprus_sapling"
+  }
+}

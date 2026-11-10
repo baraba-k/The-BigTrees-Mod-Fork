@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "#",
+    "X",
+    "X"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:oak_sapling"
+    },
+    "X": {
+      "item": "minecraft:oak_log"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "bigtrees:bt_big_oak_sapling"
+  }
+}

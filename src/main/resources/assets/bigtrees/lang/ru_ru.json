@@ -1,0 +1,17 @@
+{
+  "block.bigtrees.bt_big_oak_sapling": "Саженец большого дуба",
+  "block.bigtrees.bt_big_birch_sapling": "Саженец большой берёзы",
+  "block.bigtrees.bt_big_pine_sapling": "Саженец большой сосны",
+  "block.bigtrees.bt_dead_tree_sapling": "Саженец мёртвого дерева",
+  "block.bigtrees.bt_cyprus_sapling": "Саженец кипариса",
+  "block.bigtrees.bt_hat_tree_sapling": "Саженец зонтичного дерева",
+  "block.bigtrees.bt_bigsapling": "Саженец большого дуба",
+  "item.bigtrees.bt_big_oak_sapling": "Саженец большого дуба",
+  "item.bigtrees.bt_big_birch_sapling": "Саженец большой берёзы",
+  "item.bigtrees.bt_big_pine_sapling": "Саженец большой сосны",
+  "item.bigtrees.bt_dead_tree_sapling": "Саженец мёртвого дерева",
+  "item.bigtrees.bt_cyprus_sapling": "Саженец кипариса",
+  "item.bigtrees.bt_hat_tree_sapling": "Саженец зонтичного дерева",
+  "item.bigtrees.bt_bigsapling": "Саженец большого дуба",
+  "itemGroup.bigtrees": "Мод BigTrees"
+}

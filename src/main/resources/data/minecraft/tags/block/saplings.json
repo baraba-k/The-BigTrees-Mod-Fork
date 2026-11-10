@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "bigtrees:bt_big_oak_sapling",
+    "bigtrees:bt_big_birch_sapling",
+    "bigtrees:bt_big_pine_sapling",
+    "bigtrees:bt_dead_tree_sapling",
+    "bigtrees:bt_cyprus_sapling",
+    "bigtrees:bt_hat_tree_sapling",
+    "bigtrees:bt_bigsapling"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    " X ",
+    " X "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:dead_bush"
+    },
+    "X": {
+      "item": "minecraft:oak_log"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "bigtrees:bt_dead_tree_sapling"
+  }
+}
