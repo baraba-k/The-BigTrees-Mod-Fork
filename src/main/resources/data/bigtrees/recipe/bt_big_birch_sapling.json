@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "#",
+    "X",
+    "X"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:birch_sapling"
+    },
+    "X": {
+      "item": "minecraft:birch_log"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "bigtrees:bt_big_birch_sapling"
+  }
+}

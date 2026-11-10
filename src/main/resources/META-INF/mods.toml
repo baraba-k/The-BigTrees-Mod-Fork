@@ -1,0 +1,28 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "MIT"
+
+[[mods]]
+modId = "bigtrees"
+version = "0.0.1"
+displayName = "The BigTrees Mod (Fork)"
+description = '''
+Adds larger trees to Minecraft, enhancing dimensional complexity and atmosphere.
+(Fork for Minecraft 1.21.1 NeoForge)
+'''
+logoFile = "assets/bigtrees/textures/gui/btlogo.png"
+authors = "Karob, ThorinStonehelm"
+
+[[dependencies.bigtrees]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.bigtrees]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,)"
+ordering = "NONE"
+side = "BOTH"

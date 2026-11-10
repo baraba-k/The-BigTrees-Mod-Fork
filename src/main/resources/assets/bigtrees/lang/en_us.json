@@ -1,0 +1,18 @@
+{
+  "block.bigtrees.bt_big_oak_sapling": "Big Oak Sapling",
+  "block.bigtrees.bt_big_birch_sapling": "Big Birch Sapling",
+  "block.bigtrees.bt_big_pine_sapling": "Big Pine Sapling",
+  "block.bigtrees.bt_dead_tree_sapling": "Dead Tree Sapling",
+  "block.bigtrees.bt_cyprus_sapling": "Cyprus Sapling",
+  "block.bigtrees.bt_hat_tree_sapling": "Hat Tree Sapling",
+  "block.bigtrees.bt_bigsapling": "Big Oak Sapling",
+  "item.bigtrees.bt_big_oak_sapling": "Big Oak Sapling",
+  "item.bigtrees.bt_big_birch_sapling": "Big Birch Sapling",
+  "item.bigtrees.bt_big_pine_sapling": "Big Pine Sapling",
+  "item.bigtrees.bt_dead_tree_sapling": "Dead Tree Sapling",
+  "item.bigtrees.bt_cyprus_sapling": "Cyprus Sapling",
+  "item.bigtrees.bt_hat_tree_sapling": "Hat Tree Sapling",
+  "item.bigtrees.bt_bigsapling": "Big Oak Sapling",
+  "itemGroup.bigtrees": "The BigTrees Mod",
+  "fml.modlist.mods.bigtrees.description": "Adds larger trees to Minecraft, enhancing dimensional complexity and atmosphere. (Fork for 1.21.1 NeoForge)"
+}
